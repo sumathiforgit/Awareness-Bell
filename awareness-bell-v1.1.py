@@ -1,8 +1,6 @@
 """
 Awareness Bell Feature of Awareness Buddy App:
 
-Note: This code did not work properly. Bell rings but the quote was neither displayed nor read aloud.
-
 This application aids a person's awareness practice by playing a meditation bell sound at every quarter hour.
 This bell serves as a reminder to come to the present moment or to breathing.
 At the start of every hour, the app reads aloud a random Vipassana quote
